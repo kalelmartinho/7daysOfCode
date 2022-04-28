@@ -1,10 +1,10 @@
-![](7daysofcode.png)
+![](https://github.com/kalelmartinho/7daysOfCode/blob/master/7daysOfCode.png?raw=true)
 
 ---
 
 Projeto por *Kalel Leonardo Martinho*
 
-# [#7DaysOfCode - Ciência de Dados] https://7daysofcode.io/
+#  [#7DaysOfCode - Ciência de Dados](https://7daysofcode.io/)
 
 ---
 
@@ -30,16 +30,24 @@ Os 7 Days de Ciência de Dados é projeto para passar por todo ciclo de coleta, 
 
 ### Etapas:
 
-| Dias | Etapas | Dados |Condição |
-:---:|:----|:----|:----|
-| Dia 1 | [Data Cleaning]() | [CEAPS](https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps) | [x] |
-| Dia 2 | [Storytelling]() | [CEAPS](https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps) | [x] |
-| Dia 3 | [Forecasting]() | [CEAPS](https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps) | [x] |
-| Dia 4 | [Machine Learning]() | [MovieLens](https://grouplens.org/datasets/movielens/100k/) | [x] |
-| Dia 5 | [API]() | [MovieLens](https://grouplens.org/datasets/movielens/100k/) | [x] |
-| Dia 5 | [Split Testing]() | [Test A/B](https://www.kaggle.com/datasets/zhangluyuan/ab-testing) | [x] |
-| Dia 7 | [Documentation]() | N/A | [x] |
+| Dias | Etapas | Dados |
+:---:|:----|:----|
+| Dia 1 | [Data Cleaning](https://github.com/kalelmartinho/7daysOfCode/blob/master/ceaps/data_cleaning.ipynb) | [CEAPS](https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps) |
+| Dia 2 | [Storytelling](https://github.com/kalelmartinho/7daysOfCode/blob/master/ceaps/data_visualization.ipynb) | [CEAPS](https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps) |
+| Dia 3 | [Forecasting](https://github.com/kalelmartinho/7daysOfCode/blob/master/ceaps/forecasting.ipynb) | [CEAPS](https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps) |
+| Dia 4 | [Machine Learning](https://github.com/kalelmartinho/7daysOfCode/blob/master/movie_lens/machine_learning.ipynb) | [MovieLens](https://grouplens.org/datasets/movielens/100k/) |
+| Dia 5 | [API](https://github.com/kalelmartinho/7daysOfCode/blob/master/movie_lens/api.py) | [MovieLens](https://grouplens.org/datasets/movielens/100k/) |
+| Dia 5 | [Split Testing](https://github.com/kalelmartinho/7daysOfCode/blob/master/test_ab/split_testing.ipynb) | [Test A/B](https://www.kaggle.com/datasets/zhangluyuan/ab-testing) |
+| Dia 7 | [Documentation](https://github.com/kalelmartinho/7daysOfCode/blob/master/README.MD) | N/A |
 
+---
+
+- [x] Aplicar técnicas de limpeza de dados
+- [x] Explorar e visualizar os dados limpos
+- [x] Construir um modelo de predição
+- [x] Criar um modelo para um sistema de recomendação
+- [x] Disponibilizar o sistema de recomendação
+- [x] Documentar e publicar o projeto
 
 ---
 
